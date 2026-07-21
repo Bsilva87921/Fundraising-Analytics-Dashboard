@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-Fundraising Dashboard Overview.PNG
-
 This Power BI dashboard analyzes nonprofit fundraising performance using donor and giving data.
 
 ## Key Metrics
